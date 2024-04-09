@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Inicio de sesión de usuario","Error al iniciar sesión debido a campos faltantes","PENDING","2024-04-03T22:29:39.7697095-05:00[America/Bogota]","0.0","0.06"
+"Inicio de sesión de usuario","Error al iniciar sesión debido a credenciales inválidas","PENDING","2024-04-03T22:29:39.8793819-05:00[America/Bogota]","0.0","0.06"
+"Inicio de sesión de usuario","Error interno al iniciar sesión","PENDING","2024-04-03T22:29:39.9726386-05:00[America/Bogota]","0.0","0.08"
+"Inicio de sesión de usuario","Inicio de sesión exitoso","SUCCESS","2024-04-04T10:41:43.9867181-05:00[America/Bogota]","0.0","15.41"
