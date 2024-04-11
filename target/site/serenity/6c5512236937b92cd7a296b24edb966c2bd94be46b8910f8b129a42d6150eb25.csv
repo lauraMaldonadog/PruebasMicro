@@ -1,2 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Inicio de sesión de usuario","Inicio de sesión exitoso","ERROR","2024-04-03T22:33:54.3432676-05:00[America/Bogota]","0.0","9.97"
+"Eliminar un usuario exitosamente","Eliminar un usuario exitosamente","SUCCESS","2024-04-09T23:33:59.3133941-05:00[America/Bogota]","0.0","5.3"
+"Inicio de sesión de usuario","Inicio de sesión exitoso","SUCCESS","2024-04-09T22:32:23.4815839-05:00[America/Bogota]","0.0","8.52"
+"Obtener todos los usuarios","Obtener todos los usuarios exitosamente","SUCCESS","2024-04-10T23:58:08.1717901-05:00[America/Bogota]","0.0","7.97"

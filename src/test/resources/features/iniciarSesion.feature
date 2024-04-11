@@ -7,4 +7,3 @@ Característica:Inicio de sesión de usuario
     Entonces la respuesta debe tener un codigo de estado 200
     Y la respuesta debe incluir el mensaje "Inicio de sesion exitoso"
     Y la respuesta debe incluir el token
-

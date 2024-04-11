@@ -1,6 +1,4 @@
 package co.com.uniquindio.edu.pruebas.runners;
-
-
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
@@ -11,4 +9,5 @@ import org.junit.runner.RunWith;
         snippets = CucumberOptions.SnippetType.CAMELCASE,
         glue = "co.com.uniquindio.edu.pruebas.stepdefinitions")
 public class EliminarUsuario {
+
 }
