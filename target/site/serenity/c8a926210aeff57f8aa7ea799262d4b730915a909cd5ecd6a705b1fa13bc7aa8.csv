@@ -1,2 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Obtener todos los usuarios","Obtener todos los usuarios exitosamente","ERROR","2024-04-10T23:30:40.7593515-05:00[America/Bogota]","0.0","8.85"
+"Reestablecer contraseña","Error al reestablecer contrasena debido a token de recuperación invalido o expirado","ERROR","2024-04-11T10:21:58.2110039-05:00[America/Bogota]","0.0","0.62"

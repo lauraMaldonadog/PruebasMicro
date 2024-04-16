@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Solicitar recuperación de contraseña" skipped="0" tests="1" time="5.06" timestamp="2024-04-14 03:42:53"><testcase name="Solicitar recuperacion de contraseña exitosamente"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+co.com.uniquindio.edu.pruebas.stepdefinitions.SoliRecuperarContra.verificarCodigoEstado(SoliRecuperarContra.java:48)&#13;
+✽.la respuesta debe contener un codigo de estado 200(file:///C:/Users/lauso/Pruebas/src/test/resources/features/soliRecuperarContrasena.feature:7)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Reestablecer contraseña" skipped="1" tests="1" time="0.48" timestamp="2024-04-11 09:49:24"><testcase name="Error al reestablecer contraseña debido a token de recuperación inválido o expirado"><skipped/></testcase></testsuite>

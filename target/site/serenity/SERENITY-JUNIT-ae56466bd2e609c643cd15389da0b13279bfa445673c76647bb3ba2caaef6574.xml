@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Reestablecer contraseña" skipped="0" tests="1" time="0.62" timestamp="2024-04-11 10:21:58"><testcase name="Error al reestablecer contrasena debido a token de recuperación invalido o expirado"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.google.common.base.Preconditions.checkNotNull(Preconditions.java:889)&#13;
+co.com.uniquindio.edu.pruebas.stepdefinitions.ReestablecerContrasena.solicitudPOST(ReestablecerContrasena.java:40)&#13;
+✽.se realiza una solicitud POST a "/restablecimiento_contra" con el email, nueva contrasena y token de recuperacion invalidos(file:///C:/Users/lauso/Pruebas/src/test/resources/features/reestablecerContrasena.feature:7)&#13;
+</system-err></testcase></testsuite>
