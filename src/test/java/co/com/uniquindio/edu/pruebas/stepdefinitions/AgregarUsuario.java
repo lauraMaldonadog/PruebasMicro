@@ -1,5 +1,6 @@
 package co.com.uniquindio.edu.pruebas.stepdefinitions;
 import co.com.uniquindio.edu.pruebas.model.Usuario2;
+import com.github.javafaker.Faker;
 import io.cucumber.java.Before;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
@@ -44,8 +45,9 @@ public class AgregarUsuario {
 
     @Dado("que se tiene un nuevo usuario con nombre aleatorio, contrasena aleatoria y correo electronico aleatorio")
     public void queSeTieneUnNuevoUsuarioConNombreAleatorioContrasenaAleatoriaYCorreoElectronicoAleatorio() {
-        nombre = generarStringAleatorio();
-        contrasenia = generarStringAleatorio();
+        Faker faker = new Faker();
+        nombre = faker.internet().domainName();
+        contrasenia = faker.internet().password();
         correo = nombre+"@example.com";
         theActorCalled(nombre).entersTheScene();
         usuario2 = new Usuario2(nombre, contrasenia, correo);

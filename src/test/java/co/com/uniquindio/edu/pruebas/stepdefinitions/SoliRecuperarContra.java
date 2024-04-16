@@ -46,10 +46,10 @@ public class SoliRecuperarContra {
 
     @Cuando("realiza el cambio de contrasena con un POST a {string}")
     public void solicitudCambioContrasena(String url) {
-        UsuarioReestaContra newUser= new UsuarioReestaContra(
-                usuario.getEmail(),
-                faker.internet().password(),
-                token);
+            UsuarioReestaContra newUser= new UsuarioReestaContra(
+                    usuario.getEmail(),
+                    faker.internet().password(),
+                    token);
         theActorInTheSpotlight().attemptsTo(Post.to(url).with(request -> request.body(newUser)));
     }
 
