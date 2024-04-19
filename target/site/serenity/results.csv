@@ -5,7 +5,7 @@
 "Inicio de sesión de usuario","Error al iniciar sesión debido a campos faltantes","PENDING","2024-04-03T22:29:39.7697095-05:00[America/Bogota]","0.0","0.06"
 "Inicio de sesión de usuario","Error al iniciar sesión debido a credenciales inválidas","PENDING","2024-04-03T22:29:39.8793819-05:00[America/Bogota]","0.0","0.06"
 "Inicio de sesión de usuario","Error interno al iniciar sesión","PENDING","2024-04-03T22:29:39.9726386-05:00[America/Bogota]","0.0","0.08"
-"Inicio de sesión de usuario","Inicio de sesión exitoso","SUCCESS","2024-04-16T10:09:05.6233073-05:00[America/Bogota]","0.0","5.92"
+"Inicio de sesión de usuario","Inicio de sesión exitoso","SUCCESS","2024-04-16T10:46:08.6164121-05:00[America/Bogota]","0.0","6.73"
 "Obtener todos los usuarios","Obtener todos los usuarios exitosamente","SUCCESS","2024-04-16T10:00:14.3705091-05:00[America/Bogota]","0.0","5.07"
 "Reestablecer contraseña","Error al reestablecer contraseña debido a token de recuperación inválido o expirado","PENDING","2024-04-11T09:49:24.0189475-05:00[America/Bogota]","0.0","0.48"
 "Reestablecer contraseña","Error al reestablecer contraseña debido a token de recuperación invalido o expirado","PENDING","2024-04-11T09:57:44.2217513-05:00[America/Bogota]","0.0","0.62"
